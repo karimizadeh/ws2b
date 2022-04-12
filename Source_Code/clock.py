@@ -1,4 +1,3 @@
-import replit
 import time
 
 q = 0
